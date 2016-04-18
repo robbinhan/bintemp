@@ -1,0 +1,17 @@
+<!--<script src="bundle.js"></script>-->
+<script src="browser_bintemp.js"></script>
+<script >
+var bintemp = require('bintemp')
+
+var html = '<title>{{title}}</title><div>{{content}}</div>'
+
+var data = {
+  title:"Test",
+  content:"Hello World"
+}
+
+html = bintemp(html,data)
+
+console.log(html);
+</script>
+
