@@ -1,0 +1,23 @@
+{
+  "name": "bintemp",
+  "version": "1.0.0",
+  "description": "- **browser_bintemp.js** is  for browser - **bintemp.js** is  for node",
+  "main": "bintemp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbinhan/bintemp.git"
+  },
+  "keywords": [
+    "js",
+    "template"
+  ],
+  "author": "robbinhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbinhan/bintemp/issues"
+  },
+  "homepage": "https://github.com/robbinhan/bintemp#readme"
+}
