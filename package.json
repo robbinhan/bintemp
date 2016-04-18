@@ -1,7 +1,7 @@
 {
   "name": "bintemp",
   "version": "1.0.0",
-  "description": "- **browser_bintemp.js** is  for browser - **bintemp.js** is  for node",
+  "description": "JS Template",
   "main": "bintemp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
